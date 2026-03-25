@@ -38,10 +38,10 @@ MS in Business Analytics @ UIUC Gies College of Business (May 2026) · 3+ years 
       | [Yelp → Azure SQL Analytics](https://github.com/Prattkk/yelp-azure-sql-restaurant-analytics) | End-to-end pipeline: JSON ingestion → Azure SQL → Marimo app | Python, SQL, Azure |
       | [European Football Transfer BI](https://github.com/Prattkk/European-Football-Transfer-BI) | Transfer market analytics with predictive modeling and Tableau dashboards | Python, Tableau |
       | [PYUSD Stablecoin Analysis](https://github.com/Prattkk/stablecoin-ecosystem-pyusd) | Adoption, liquidity, and fee analysis on Ethereum via Dune Analytics | Dune Analytics |
-      | [Second Opinion](https://github.com/Prattkk/second-opinion) | Healthcare AI — OCR + LLM clinical summary tool (COZAD 2026) | Python, OCR, LLM |
+      | [Second Opinion](https://github.com/Prattkk/second-opinion-healthcare-ai) | Healthcare AI — OCR + LLM clinical summary tool (COZAD 2026) | Python, OCR, LLM |
 
       ---
 
       ## Connect
 
-      [Portfolio](https://quaint-area-0e3.notion.site) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE) · [vermaprateek1109@gmail.com](mailto:vermaprateek1109@gmail.com)
+      [Portfolio](https://quaint-area-0e3.notion.site) · [LinkedIn](www.linkedin.com/in/prateek-verma-158b35217) · [vermaprateek1109@gmail.com](mailto:vermaprateek1109@gmail.com)
