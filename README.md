@@ -44,4 +44,4 @@ MS in Business Analytics @ UIUC Gies College of Business (May 2026) · 3+ years 
 
       ## Connect
 
-      [Portfolio](https://quaint-area-0e3.notion.site) · [LinkedIn](www.linkedin.com/in/prateek-verma-158b35217) · [vermaprateek1109@gmail.com](mailto:vermaprateek1109@gmail.com)
+      [Portfolio](https://quaint-area-0e3.notion.site) · [LinkedIn](https://www.linkedin.com/in/prateek-verma-158b35217/) · [vermaprateek1109@gmail.com](mailto:vermaprateek1109@gmail.com)
