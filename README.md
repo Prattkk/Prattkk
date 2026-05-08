@@ -1,6 +1,36 @@
 # Prateek Verma
 
-MS in Business Analytics @ UIUC Gies College of Business (May 2026) · 3+ years in data and business analytics across WNS Global Services, Upsleek Apparels, and Wolters Kluwer. Background in Computer Science (B.E., Chitkara University). Targeting Business Analyst / Data Analyst roles for mid-2026.
+MSBA, UIUC Gies College of Business (May 2026) · GPA 3.92 · B.E. CSE, Chitkara University (9.91 CGPA)  
+3+ years in data and business analytics · Urbana, IL · Open to relocation
+
+[Portfolio](https://prattkk.github.io/prateek-portfolio/) · [LinkedIn](https://linkedin.com/in/prateek-verma-158b35217) · [vermaprateek1109@gmail.com](mailto:vermaprateek1109@gmail.com)
+
+---
+
+## What I'm Looking For
+
+Full-time Business Analyst / Data Analyst roles for mid-2026 start — consulting, tech, finance, or healthcare analytics.
+
+---
+
+## Achievements
+
+- 🥇 1st Place — Gies AI for Impact Challenge 2026 (Business Technology Track) | Magelli Scout: multi-agent AI job scoring on Microsoft Copilot Studio + Power BI dashboard
+- 🏆 1st Place — Project Nexus Case Competition, Gies (April 2026) | Walmart drone delivery GTM strategy, $13.7M Year 1 revenue model
+- 🥉 3rd Place — Sustainability Case Competition, Gies | AI-powered SDG analytics dashboard
+- 🚀 COZAD 2026 Competitor — Second Opinion healthcare AI startup
+
+---
+
+## Featured Projects
+
+- **[Short-Alpha Intelligence Pod](https://github.com/Prattkk/short-alpha-intelligence-pod)** — Multi-agent short squeeze detection using NewsAPI, Reddit, and SEC data with ML signals
+- **[Wolters Kluwer AnswerConnect AI](https://github.com/Prattkk/wolters-kluwer-answerconnect-ai)** — GenAI legal research assistant; NLP + RAG pipeline, UIUC MSBA practicum
+- **[UrbanFleet AWS Data Pipeline](https://github.com/Prattkk/urbanfleet-aws-data-pipeline)** — Serverless pipeline: Kinesis → Lambda → S3 → Glue → Step Functions → Athena (BADM 558 capstone)
+- **[Second Opinion](https://github.com/Prattkk/second-opinion-healthcare-ai)** — Co-founded healthcare AI startup; freemium SaaS for AI-assisted physician second opinions (COZAD 2026)
+- **[European Football Transfer BI](https://github.com/Prattkk/European-Football-Transfer-BI)** — Tableau + DAX + ML dashboard for transfer market analytics
+- **[Yelp Restaurant Location Analytics](https://github.com/Prattkk/yelp-azure-sql-restaurant-analytics)** — Azure SQL + Python + Marimo for restaurant performance insights
+- **[Sustainability Case Competition](https://github.com/Prattkk/sustainable-case-competition)** — AI-powered SDG analytics dashboard; 3rd Place, Gies
 
 ---
 
@@ -20,31 +50,5 @@ MS in Business Analytics @ UIUC Gies College of Business (May 2026) · 3+ years 
 
 ---
 
-## What I'm Working On
-
-- **Job search** — actively pursuing Business Analyst and Data Analyst roles for mid-2026 start
-- **MSBA Capstone** — client practicum with Wolters Kluwer, building AI-powered research workflows
-- **Sustainability Case Competition** — 🏆 Finalist; AI-driven SDG analytics and decision support prototype
-- **Second Opinion** (COZAD 2026) — co-founding a healthcare AI startup that connects patients with physician second opinions, powered by GenAI case summarization and FHIR R4 integration
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Second Opinion](https://github.com/Prattkk/second-opinion-healthcare-ai) | Healthcare AI startup — GenAI + FHIR R4 physician second opinion platform (COZAD 2026) | Python, FastAPI, React, GenAI |
-| [Sovereign Fund Command Center](https://github.com/Prattkk/sovereign-fund-command-center) | Sovereign wealth fund analytics dashboard with real-time portfolio and macro intelligence | JavaScript |
-| [Portfolio](https://github.com/Prattkk/prateek-portfolio) | Personal portfolio site — Business Analyst & Data Storyteller | TypeScript, React, Three.js |
-| [Short-Alpha Intelligence Pod](https://github.com/Prattkk/short-alpha-intelligence-pod) | Multi-agent short squeeze detection across AFRM, SQ, PYPL, SHOP, TSLA | Python, NLP, Agentic AI |
-| [Wolters Kluwer AnswerConnect AI](https://github.com/Prattkk/wolters-kluwer-answerconnect-ai) | AI research & drafting prototype — UIUC MSBA practicum | JavaScript |
-| [Yelp → Azure SQL Analytics](https://github.com/Prattkk/yelp-azure-sql-restaurant-analytics) | End-to-end pipeline: JSON ingestion → Azure SQL → Marimo app | Python, SQL, Azure |
-| [European Football Transfer BI](https://github.com/Prattkk/European-Football-Transfer-BI) | Transfer market analytics with predictive modeling and Tableau dashboards | Python, Tableau |
-| [PYUSD Stablecoin Analysis](https://github.com/Prattkk/stablecoin-ecosystem-pyusd) | Adoption, liquidity, and fee analysis on Ethereum via Dune Analytics | Dune Analytics |
-| [Sustainable Case Competition](https://github.com/Prattkk/sustainable-case-competition) | 🏆 Finalist — AI-powered SDG analytics and decision support prototype | Python, AI Studio |
-
----
-
-## Connect
-
-[Portfolio](https://quaint-area-0e3.notion.site) · [LinkedIn](https://www.linkedin.com/in/prateek-verma-158b35217/) · [vermaprateek1109@gmail.com](mailto:vermaprateek1109@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prattkk&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prattkk&layout=compact&theme=default&hide_border=true)
