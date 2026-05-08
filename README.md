@@ -48,7 +48,3 @@ Full-time Business Analyst / Data Analyst roles for mid-2026 start — consultin
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prattkk&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prattkk&layout=compact&theme=default&hide_border=true)
