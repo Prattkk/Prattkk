@@ -24,9 +24,11 @@ Full-time Business Analyst / Data Analyst roles for mid-2026 start — consultin
 
 ## Featured Projects
 
+- **[Magelli Scout](https://github.com/Prattkk/magelli-scout)** — Multi-agent AI job fit scoring on Microsoft Copilot Studio + Power BI; 1st Place, Gies AI for Impact Challenge 2026
+- **[Project Nexus](https://github.com/Prattkk/project-nexus)** — Walmart drone delivery GTM strategy; $13.7M Year 1 revenue model; 1st Place, Gies Case Competition 2026
 - **[Short-Alpha Intelligence Pod](https://github.com/Prattkk/short-alpha-intelligence-pod)** — Multi-agent short squeeze detection using NewsAPI, Reddit, and SEC data with ML signals
 - **[Wolters Kluwer AnswerConnect AI](https://github.com/Prattkk/wolters-kluwer-answerconnect-ai)** — GenAI legal research assistant; NLP + RAG pipeline, UIUC MSBA practicum
-- **[UrbanFleet AWS Data Pipeline](https://github.com/Prattkk/urbanfleet-aws-data-pipeline)** — Serverless pipeline: Kinesis → Lambda → S3 → Glue → Step Functions → Athena (BADM 558 capstone)
+- **[UrbanFleet AWS Data Pipeline](https://github.com/Prattkk/urbanfleet-aws-pipeline)** — Serverless pipeline: Kinesis → Lambda → S3 → Glue → Step Functions → Athena (BADM 558 capstone)
 - **[Second Opinion](https://github.com/Prattkk/second-opinion-healthcare-ai)** — Co-founded healthcare AI startup; freemium SaaS for AI-assisted physician second opinions (COZAD 2026)
 - **[European Football Transfer BI](https://github.com/Prattkk/European-Football-Transfer-BI)** — Tableau + DAX + ML dashboard for transfer market analytics
 - **[Yelp Restaurant Location Analytics](https://github.com/Prattkk/yelp-azure-sql-restaurant-analytics)** — Azure SQL + Python + Marimo for restaurant performance insights
@@ -47,4 +49,3 @@ Full-time Business Analyst / Data Analyst roles for mid-2026 start — consultin
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
