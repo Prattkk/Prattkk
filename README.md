@@ -69,12 +69,6 @@ MSBA, Gies College of Business, UIUC (May 2026) · GPA 3.96 · B.E. CSE, Chitkar
 
 ---
 
-## 📊 GitHub Stats
-
-![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prattkk&show_icons=true&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prattkk&hide_border=true)
-
 ---
 
 ## 💼 Open to Work
