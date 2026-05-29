@@ -69,11 +69,9 @@ MSBA, Gies College of Business, UIUC (May 2026) · GPA 3.96 · B.E. CSE, Chitkar
 
 ---
 
----
-
 ## 💼 Open to Work
 
 Targeting **AI Engineer · Generative AI Engineer · AI Business Analyst · Data Analyst · Business Analyst** roles across the US.  
-Available immediately · F-1 OPT · STEM eligible · Remote, Hybrid, or On-site.
+Available immediately.
 
 📧 vermaprateek1109@gmail.com · [LinkedIn](https://www.linkedin.com/in/prateek-verma11/) · [Portfolio](https://prattkk.github.io/prateek-portfolio/)
